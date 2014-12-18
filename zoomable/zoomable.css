@@ -1,0 +1,19 @@
+html, body, a, div, img {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+div {
+  width: 300px;
+  position: relative;
+}
+
+div.zoomable img{
+  width: 100%;
+}
+
+div.focus-box {
+  height: 400px;
+  width: 400px;
+}
